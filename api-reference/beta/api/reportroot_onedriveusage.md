@@ -1,4 +1,4 @@
-# GET: OneDriveUsage report
+# GET OneDriveUsage report
 
 Retrieve the reports of OneDrive Storage. The response will be a CSV file in a binary stream.
 

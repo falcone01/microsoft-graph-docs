@@ -1,4 +1,4 @@
-# GET: OneDriveActivity report
+# GET OneDriveActivity report
 
 Retrieve the reports of OneDrive User Activity. The response will be a CSV file in a binary stream.
 

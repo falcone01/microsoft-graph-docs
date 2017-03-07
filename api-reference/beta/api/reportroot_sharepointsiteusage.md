@@ -1,4 +1,4 @@
-# GET: SharePointSiteUsage report
+# GET SharePointSiteUsage report
 
 Retrieve the reports of SharePoint Site Storage. The response will be a CSV file in a binary stream.
 
